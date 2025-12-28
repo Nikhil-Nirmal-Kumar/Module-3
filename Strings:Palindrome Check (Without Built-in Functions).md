@@ -18,12 +18,11 @@ def palindrome(a):
         print("The entered string is palindrome")
     else:
         print("The entered string is not palindrome")
-  
 string=input()
 palindrome(string)
 ```
 
 ## Output
-![Uploading image.png…]()
+<img width="887" height="151" alt="image" src="https://github.com/user-attachments/assets/57d9b2df-a94b-4ca2-8e8d-771907a96a15" />
 
 ## Result
